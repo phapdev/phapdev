@@ -1,6 +1,6 @@
 <!-- PHAPDEV GitHub PROFILE -->
 <a href="#" target="_blank">
-  <img src="svg/phapdev.svg" width="1200" alt="phapdev-readme" />
+  <img src="./svg/phapdev.svg" width="1200" alt="phapdev-readme" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
