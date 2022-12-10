@@ -35,4 +35,4 @@ Hello! my name is Nhan, you can call me FoxMinChan 🦊. I'm a Student living in
 ## 📫 How to reach me:
 
 <a href="https://www.facebook.com/luongphap1810/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
-<a href="mailto:luongphap1810@gmail.com>[luongphap1810@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:luongphap1810@gmail.com">![luongphap1810@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
