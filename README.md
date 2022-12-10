@@ -25,13 +25,13 @@
 </p>   -->
 
 ## ⚡ About me:
-
+<!-- 
 #### Glad to see you here!
 
 Hello! my name is Nhan, you can call me FoxMinChan 🦊. I'm a Student living in Ho Chi Minh city. Outside Tech, I love take photos 📸, listen to music 🎼 and explore nature outdoors. If you want to talk to me, please contact me via email 📧.
 - Check out my [instagram](https://www.instagram.com/foxminchan/)
 - Write to me: [nguyenxuannhan407@gmail.com](mailto:nguyenxuannhan407@gmail.com)
-- See me on Hacker Rank: https://www.hackerrank.com/foxminchan
+- See me on Hacker Rank: https://www.hackerrank.com/foxminchan -->
 ## 📫 How to reach me:
 
 <a href="https://www.facebook.com/luongphap1810/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
