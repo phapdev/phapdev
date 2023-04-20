@@ -16,9 +16,6 @@ Here some of the projects I'm maintaining ❤️:
 
 ## Podcast 🥐
 
-If you're into open source, make sure you don't miss my podcast: [**The Developers' Bakery**](https://thebakery.dev):
-
-* [Listen on Spotify](https://open.spotify.com/show/4jV6Yoz7D38sZJlYMzJm3k?si=AL3ske_0R_CKlEScMhYhug)
 * [Follow on Facebook](https://facebook.com/luongphap1810)
 
 ## Contact 📬
