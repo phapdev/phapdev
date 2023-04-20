@@ -12,7 +12,7 @@ My name is **Phap (he/him)** and if there is one thing that wakes me up in the m
 ## Projects 🐧
 
 Here some of the projects I'm maintaining ❤️:
-* [DongNaiTraVelApp]([https://github.com/detekt/detekt](https://github.com/phapdev/DongNaiTravelApp)) a static analyzer for Kotlin.
+* [DongNaiTraVelApp](https://github.com/phapdev/DongNaiTravelApp) a travel app.
 
 ## Podcast 🥐
 
