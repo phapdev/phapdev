@@ -7,8 +7,7 @@
 
 My name is **Phap (he/him)** and if there is one thing that wakes me up in the morning... this is **open source development**!
 
-- ⚛️ Currently working on: [React Native](https://github.com/facebook/react-native)
-- 💜 Favorite language: React Native
+- 💜 Favorite language: Python, Javascript,  React Native, ReactJS,
 - 🏃‍♂️ Favorite hobby: Running!
 
 ## Projects 🐧
