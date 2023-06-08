@@ -28,11 +28,11 @@ How to reach me:
 * [luongphap1810@gmail.com](mailto:luongphap1810@gmail.com)
 
 
-<div align="center">
-  <a href="#" title="phapdev">
+<!--  <div align="center">
+   <a href="#" title="phapdev">
     <img width="315" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phapdev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
+  </a> 
   <a href="#" title="phapdev">
     <img src="https://github-readme-stats.vercel.app/api?username=phapdev&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="github stats for cortinico" width="470" align="left" />
   </a>
-</div>
+</div>  -->
