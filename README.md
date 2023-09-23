@@ -7,7 +7,7 @@
 
 My name is **Phap (he/him)** and if there is one thing that wakes me up in the morning... this is **open source development**!
 
-- 💜 Favorite language: Python, Javascript,  React Native, ReactJS,
+- 💜 Favorite language: Rust, Javascript.
 - 🏃‍♂️ Favorite hobby: Running!
 
 ## Projects 🐧
