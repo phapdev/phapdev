@@ -1,4 +1,3 @@
-
 <!--[![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)](https://chromedino.com) -->
 <!-- https://git.io/typing-svg -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1000&pause=500&color=609966&vCenter=true&multiline=true&random=false&width=666&height=60&lines=Hey+everyone,+I'm+Phap👋+I+am+from)](https://github.com/phapdev)
