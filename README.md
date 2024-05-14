@@ -6,7 +6,6 @@
 
 ⭐ Developer at [Weminal labs](https://github.com/Weminal-labs)
 
-<img align="right" width="150" height="150" src="./animation_github.gif"></a>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=300&pause=500&color=40513B&vCenter=true&multiline=true&random=false&width=666&height=60&lines=Contact+📬)](mailto:luongphap1810@gmail.com)
 
 How to reach me: 
