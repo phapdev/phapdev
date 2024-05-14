@@ -10,5 +10,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=300&pause=500&color=40513B&vCenter=true&multiline=true&random=false&width=666&height=60&lines=Contact+📬)](mailto:luongphap1810@gmail.com)
 
 How to reach me: 
-* [@phapdev on Facebook](https://facebook.com/luongphap1810)
+* [@phapdev](https://facebook.com/luongphap1810) on Facebook
 * [luongphap1810@gmail.com](mailto:luongphap1810@gmail.com)
