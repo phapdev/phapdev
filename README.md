@@ -3,7 +3,7 @@
 
   🚀 Co-Founder of [Code4life Labs](https://github.com/Code4life-Labs)
 
-  🚀 Project manager of [Code4life Labs](https://github.com/Weminal-labs)
+  🚀 Project manager of [Weminal labs](https://github.com/Weminal-labs)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=300&pause=500&color=40513B&vCenter=true&multiline=true&random=false&width=666&height=60&lines=Contact+📬)](mailto:luongphap1810@gmail.com)
 
