@@ -5,6 +5,8 @@
 
   🚀 Project manager of [Weminal labs](https://github.com/Weminal-labs)
 
+  🚀 Developer at [Inno Lab](https://github.com/Innovate-Lab)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=300&pause=500&color=40513B&vCenter=true&multiline=true&random=false&width=666&height=60&lines=Contact+📬)](mailto:luongphap1810@gmail.com)
 
 How to reach me: 
