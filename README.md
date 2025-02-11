@@ -13,3 +13,5 @@ How to reach me:
 * [@phapdev](https://facebook.com/luongphap1810) on Facebook
 * [luongphap1810@gmail.com](mailto:luongphap1810@gmail.com)
 * [contact.phapdev@gmail.com](mailto:contact.phapdev@gmail.com)
+
+![Alt](https://repobeats.axiom.co/api/embed/42bd748560ff58f4f3f88d6bdd8771ef0748319e.svg "Repobeats analytics image")
